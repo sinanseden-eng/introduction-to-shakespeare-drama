@@ -14,8 +14,6 @@ const chapters = [
     { title: 'Words T–W', file: 'Shakespeares_words_3.webp', alt: 'Shakespearean language poster three: thence through withal, modern meanings and one example for each.' }
   ]},
   { name: 'Literary Devices', icon: '✧', color: '#b49ce5', summary: 'Explore ten devices with a Romeo and Juliet example and examples from today.', pages: [
-    { title: 'Overview: part one', file: '1.webp', alt: 'Five literary devices at a glance: foreshadowing, contrast, dramatic irony, ethical dilemma and paradox.' },
-    { title: 'Overview: part two', file: '2.webp', alt: 'Five literary devices at a glance: irony, ambiguity, symbolism, metaphor and juxtaposition.' },
     { title: 'Foreshadowing and contrast', file: '3.webp', alt: 'Definitions and Romeo and Juliet and modern examples of foreshadowing and contrast.' },
     { title: 'Dramatic irony and ethical dilemma', file: '4.webp', alt: 'Definitions and Romeo and Juliet and modern examples of dramatic irony and ethical dilemma.' },
     { title: 'Paradox and irony', file: '5.webp', alt: 'Definitions and Romeo and Juliet and modern examples of paradox and irony.' },

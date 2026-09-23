@@ -1,13 +1,13 @@
 # Shakespeare Study Book
 
-A visual digital book for studying Shakespeare. It includes all 15 posters supplied for this project, arranged in four chapters:
+A visual digital book for studying Shakespeare. It includes 13 posters arranged in four chapters:
 
 1. Iambic Pentameter
 2. Wrenching, Enjambment & Caesura
 3. Shakespeare’s Language
 4. Literary Devices
 
-Readers can select a chapter or page, use Previous and Next, navigate with the left and right arrow keys, swipe on touch screens, and enlarge each poster for detailed reading. Page URLs use `#page-1` through `#page-15`.
+Readers can select a chapter or page, use Previous and Next, navigate with the left and right arrow keys, swipe on touch screens, and enlarge each poster for detailed reading. Page URLs use `#page-1` through `#page-13`.
 
 ## Run locally
 
